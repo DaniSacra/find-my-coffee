@@ -16,6 +16,8 @@ gem 'jbuilder', '~> 2.7'
 
 # Gem to use PostGis 
 gem 'activerecord-postgis-adapter'
+gem 'rest-client'
+gem 'rack-cors'
 
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
